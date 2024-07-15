@@ -1,9 +1,8 @@
 document.getElementById('affiliateForm').addEventListener('submit', function(e) {
     e.preventDefault();
     const affiliateId = document.getElementById('affiliateId').value;
-    const url = `https://raw.githubusercontent.com/external-naming-convention/validate/main/affiliates.json`;
     if (affiliateId != "none") {
-        fetch(url)
+        fetch("affiliates.json")
             .then(response => response.json())
             .then(data => {
                 const result = data[affiliateId];
