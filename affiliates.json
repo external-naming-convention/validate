@@ -1,1 +1,26 @@
-{"salad-aff0": {"discord": "gg/jqTZGaqkaC", "website": "undefined"}, "rio-aff1": {"discord": "gg/NY7Fke9pfH", "website": "https://rio.vercel.app"}, "uranium-aff2": {"discord": "gg/bMRj3hD7w5", "website": "undefined"}, "sinetic-aff3": {"discord": "gg/GpRGtfB4Sk", "website": "undefined"}, "feather-aff4": {"discord": "gg/getfeather", "website": "undefined"}}
+{
+	"moREnc": {
+		"discord": "gg/renc",
+		"website": "https://github.com/Carot-Subsidiaries/RENCPP"
+	},
+	"salad-aff0": {
+		"discord": "gg/jqTZGaqkaC",
+		"website": "undefined"
+	},
+	"rio-aff1": {
+		"discord": "gg/NY7Fke9pfH",
+		"website": "https://rio.vercel.app"
+	},
+	"uranium-aff2": {
+		"discord": "gg/bMRj3hD7w5",
+		"website": "undefined"
+	},
+	"sinetic-aff3": {
+		"discord": "gg/GpRGtfB4Sk",
+		"website": "undefined"
+	},
+	"feather-aff4": {
+		"discord": "gg/getfeather",
+		"website": "undefined"
+	}
+}
